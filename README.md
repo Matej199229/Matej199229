@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Matej199229
+- 👋 Hi, My name is Matej
 - 👀 I’m interested in Front-End Development
 - 🌱 I’m currently learning HTML & CSS
 - 💞️ I’m looking to collaborate on front end development projects
