@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Matej199229
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning IT and Cyber Security at UofT
-- 💞️ I’m looking to collaborate on cyber security projects
+- 👀 I’m interested in Front-End Development
+- 🌱 I’m currently learning HTML & CSS
+- 💞️ I’m looking to collaborate on front end development projects
 - 📫 How to reach me: mtinkovic@gmail.com
 
 <!---
